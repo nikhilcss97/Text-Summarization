@@ -1,2 +1,53 @@
-# Text-Summarization
+# Text-Summarization Using Deep Learning
 Jupyter notebooks for text summarization using Deep Learning techniques
+
+#### -- Project Status: Active
+
+## Introduction
+The purpose of this project is to produce a model for Abstractive Text Summarization, starting with the RNN encoder-decoder as the baseline model. From there, we come across the effectiveness of different methods for attention in abstractive summarization. These methods try to first understand the text and then rephrase it in a shorter manner, using possibly different words. For perfect abstractive summary, the model has to first truly understand the document and then try to express that understanding in short possibly using new words and phrases. We have used the concept of an encoder-decoder recurrent neural network with LSTM units and attention to generate summary from a given text.
+
+### Methods Used
+* Word Embeddings using GloVe (Global Vectors)
+* Encoder-decoder using RNN(Recurrent Neural Network)
+
+### Technologies
+* Python
+* Keras Library
+* TensorFlow
+* Jupyter
+* etc.
+
+## Description
+In this project we have used a [sample dataset of news articles (CNN , Daily Mail)](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail). Currently we are facing a problem in implementing the pointer-generator network.
+
+## Architecture
+![Architecture](./resources/images/archi_diag.png)
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept on the local storage at the location ~/Text-Summarization/Original_data/cnn/stories
+
+3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
+
+*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+
+5. Follow setup [instructions](Link to file)
+
+## Featured Notebooks/Analysis/Deliverables
+* [Notebook/Markdown/Slide Deck Title](link)
+* [Notebook/Markdown/Slide DeckTitle](link)
+* [Blog Post](link)
+
+
+## Contributing Team Members
+
+**Team Leads (Contacts) : [Nikhil Gupta](https://github.com/nikhilcss97)**
+
+#### Other Members:
+
+[Blair Fernandes](https://github.com/blair49), [Asjad Baig](https://github.com/[github handle])
+
+## Contact
+* Feel free to contact team leads with any questions or if you are interested in contributing!
