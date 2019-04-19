@@ -23,6 +23,9 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 ## Architecture
 ![Architecture](./resources/images/model.jpg)
 
+## Learning Rate Configuration
+![Learning Rate](./resources/images/CLR_graph.jpg)
+
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
