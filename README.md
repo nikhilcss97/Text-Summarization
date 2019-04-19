@@ -21,7 +21,7 @@ The purpose of this project is to produce a model for Abstractive Text Summariza
 In this project we have used a [sample dataset of news articles (CNN , Daily Mail)](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail). Currently we are facing a problem in implementing the pointer-generator network.
 
 ## Architecture
-![Architecture](./resources/images/archi_diag.png)
+![Architecture](./resources/images/model.jpg)
 
 ## Getting Started
 
