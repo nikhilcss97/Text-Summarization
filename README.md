@@ -53,4 +53,4 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 [Blair Fernandes](https://github.com/blair49), [Asjad Baig](https://github.com/[github handle])
 
 ## Contact
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact on me on nikhil.css97@gmail.com with any questions or if you are interested in contributing!
