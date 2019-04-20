@@ -36,6 +36,9 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
   Use `single backticks` to call out code or a command within a sentence.
   ```
   To format code or text into its own distinct block, use triple backticks
+  example:
+    git status
+    git commit -m
   ```
 
 ## Featured Notebooks/Analysis/Deliverables
