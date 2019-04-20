@@ -32,11 +32,11 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 2. Raw Data is being kept on the local storage at the location ~/Text-Summarization/Original_data/cnn/stories
 
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
+4. Installation steps:
+  Use `single backticks` to call out code or a command within a sentence.
+  ```
+  To format code or text into its own distinct block, use triple backticks
+  ```
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
