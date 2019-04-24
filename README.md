@@ -28,7 +28,8 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 
 ## Word Embeddings
 ![ConceptNet Numberbatch](./resources/images/conceptnet-numberbatch.png)
-ConceptNet Numbernatch word embeddings were used to encode the word meanings
+
+* ConceptNet Numbernatch word embeddings were used to encode the word meanings
 
 ## Getting Started
 
