@@ -26,8 +26,8 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 ## Learning Rate Configuration
 ![Learning Rate](./resources/images/CLR.png)
 
-CyclicLR(mode='triangular2', base_lr= 0.2, max_lr= 0.001,
-                          step_size= (len(padded_sorted_texts)*0.9/BATCH_SIZE) * 2)
+`CyclicLR(mode='triangular2', base_lr= 0.2, max_lr= 0.001,
+                          step_size= (len(padded_sorted_texts)*0.9/BATCH_SIZE) * 2)`
 
 ## Word Embeddings
 ![ConceptNet Numberbatch](./resources/images/conceptnet-numberbatch.png)
