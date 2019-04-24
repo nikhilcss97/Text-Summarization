@@ -32,7 +32,7 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 * ConceptNet Numbernatch word embeddings were used to encode the word meanings
 
 ## Sample Output Screenshots
-(./resources/images/SS1.png)
+![](./resources/images/SS1.png)
 
 ## Getting Started
 
