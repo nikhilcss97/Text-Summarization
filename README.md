@@ -24,7 +24,7 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 ![Architecture](./resources/images/model.jpg)
 
 ## Learning Rate Configuration
-![Learning Rate](./resources/images/CLR_graph.jpg)
+![Learning Rate](./resources/images/CLR.png)
 
 ## Word Embeddings
 ![ConceptNet Numberbatch](./resources/images/conceptnet-numberbatch.png)
