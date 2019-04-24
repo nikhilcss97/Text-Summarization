@@ -33,6 +33,8 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 
 ## Sample Output Screenshots
 ![](./resources/images/SS1.png)
+![](./resources/images/SS2.png)
+
 
 ## Getting Started
 
