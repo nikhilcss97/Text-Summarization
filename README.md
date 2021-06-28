@@ -58,7 +58,7 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 
 ## Contributing Team Members
 
-**Team Leads (Contacts) : [Nikhil Gupta](https://github.com/nikhilcss97)**
+**Team Lead (Contacts) : [Nikhil Gupta](https://github.com/nikhilcss97)**
 
 #### Other Members:
 
